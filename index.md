@@ -1,6 +1,6 @@
 # Privacy Policy for Fast PDF Maker : Photo to PDF
 
-**Last updated:** 23 Feb 2026
+**Last updated:** 28 Feb 2026
 
 The Fast PDF Maker app was developed by Harjinder Singh. For the purposes of this Privacy Policy, the developer will be referred to as "we," "us," or "our." We provide this app as a free, ad-supported service, and it is intended for use 'as is'.
 
@@ -17,12 +17,14 @@ The app requires the following device permissions:
 * **Storage / Photo Gallery (Read/Write):** To allow you to select existing images from your gallery and to save the generated PDF documents to your device.
 
 ## 3. Third-Party Services and Advertising
-While we do not collect personal data directly, the app does use third-party services that may collect information used to identify you, primarily for serving advertisements.
+While we do not collect personal data directly, the app does use third-party services that may collect information used to identify you, primarily for serving advertisements and powering app features.
 
-We use Google AdMob to display ads. AdMob may collect and use data such as your device's advertising ID, IP address, and usage data to serve personalized or non-personalized ads.
+* **Google AdMob:** We use AdMob to display ads. AdMob may collect and use data such as your device’s advertising ID, IP address, and usage data to serve personalized or non-personalized ads.
+* **Google ML Kit (Document Scanner):** We use Google ML Kit via Google Play Services to power the Smart Document Scanner. While all document scanning and image cropping happens entirely **offline on your device**, the Google SDK may collect basic diagnostic, performance, and usage data to ensure the scanner functions correctly.
 
 Link to the privacy policy of third-party service providers used by the app:
 * [Google Privacy Policy](https://policies.google.com/privacy)
+* [Google Play Services](https://policies.google.com/privacy)
 
 ## 4. Security
 We value your trust in providing us your information. Because all document processing happens locally on your mobile device, the security of your documents relies entirely on the security of your device itself. We do not have access to your files.
